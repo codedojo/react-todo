@@ -1,6 +1,6 @@
 import React, { useReducer, useMemo } from 'react';
 
-import StoreContext from '../contexts/store';
+import StoreContext from 'contexts/store';
 import { bindActions } from './utils';
 
 export default function Provider({ initialState, reducer, actions, children }) {

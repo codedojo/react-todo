@@ -9,11 +9,11 @@ import {
     Typography
 } from 'mdc-react';
 
-import useStore from '../../hooks/store';
+import useStore from 'hooks/store';
 
-import TodoList from '../../components/TodoList';
-import TodoForm from '../../components/TodoForm';
-import TodoDetails from '../../components/TodoDetails';
+import TodoList from 'components/TodoList';
+import TodoForm from 'components/TodoForm';
+import TodoDetails from 'components/TodoDetails';
 
 import './index.scss';
 

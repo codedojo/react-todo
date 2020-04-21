@@ -11,7 +11,7 @@ import {
     Typography
 } from 'mdc-react';
 
-import useStore from '../../hooks/store';
+import useStore from 'hooks/store';
 
 export default function AppDrawer({ lists }) {
     const { state, actions } = useStore();

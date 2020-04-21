@@ -7,7 +7,7 @@ import {
     Typography
 } from 'mdc-react';
 
-import useStore from '../../hooks/store';
+import useStore from 'hooks/store';
 
 import './index.scss';
 
