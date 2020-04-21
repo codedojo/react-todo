@@ -1,0 +1,20 @@
+#list-page {
+    max-width: 100%;
+
+    .mdc-layout {
+        flex: 1;
+    }
+
+    .mdc-side-sheet {
+        top: 64px;
+        padding: 1rem;
+    }
+
+    .todo-list {
+        margin: 1rem 1rem .25rem;
+    }
+
+    .todo-form {
+        margin: .25rem 1rem 1rem;
+    }
+}
