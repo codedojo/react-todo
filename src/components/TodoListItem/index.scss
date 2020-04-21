@@ -1,0 +1,14 @@
+.todo-list-item {
+  background-color: white;
+  margin-top: 2px;
+
+  .mdc-list-item__graphic {
+    width: 18px;
+    height: 18px;
+    margin-right: 1rem;
+  }
+
+  .mdc-list-item__text {
+    flex: 1;
+  }
+}
